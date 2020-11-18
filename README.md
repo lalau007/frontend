@@ -1,2 +1,3 @@
 # frontend
-Repositorio curso
+Mi primer repositorio curso
+Editando desde la rama Master
